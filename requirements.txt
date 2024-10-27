@@ -1,9 +1,2 @@
-
-asyncio
-telethon
-logging
-openai
-python-dotenv
-pandas
-numpy
-scikit-learn
+aiogram==3.11.0
+python-decouple==3.8
