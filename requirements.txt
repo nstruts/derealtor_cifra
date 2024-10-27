@@ -1,0 +1,9 @@
+
+asyncio
+telethon
+logging
+openai
+python-dotenv
+pandas
+numpy
+scikit-learn
